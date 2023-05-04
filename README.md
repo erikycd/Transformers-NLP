@@ -15,5 +15,5 @@ Developed in Pytorch
 * Fine-tunning on Amazon reviews dataset
 
 <p align="center">
-  <img width="20%" src="">
+  <img width="60%" src="imgs/process_token_binary_class.png">
 </p>
